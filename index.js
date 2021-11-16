@@ -68,14 +68,3 @@ function newCard() {
     }
 }
 
-
-let castleListing = {
-    name: "pureCastle East London",
-    location: ["UK", "London", "Westminster"],
-    maxGuests: 27,
-    freeParking: true,
-
-}
-
-console.log(castleListing.freeParking +". " + castleListing.location[2] + ", " +castleListing.location[0] +", "+ castleListing.location[1])
-
